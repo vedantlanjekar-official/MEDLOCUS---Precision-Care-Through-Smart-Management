@@ -1196,6 +1196,20 @@ After setup, verify everything works:
 **Last Updated**: 2024  
 **Status**: ✅ Production Ready
 
+<img width="2549" height="4527" alt="localhost_3000_" src="https://github.com/user-attachments/assets/dfbeea00-e8b8-4216-b8ab-39d60bc30955" />
+
+<img width="2561" height="1418" alt="localhost_3000_ (1)" src="https://github.com/user-attachments/assets/46eee517-34a9-42ce-b9ae-9876c3f7c889" />
+
+<img width="2549" height="2025" alt="localhost_3000_ (2)" src="https://github.com/user-attachments/assets/d945c134-5a82-49df-8b25-86c33215004d" />
+
+<img width="2561" height="1418" alt="localhost_3000_ (3)" src="https://github.com/user-attachments/assets/d39aac93-fce2-4db1-a180-967e866c51ee" />
+
+<img width="2561" height="1418" alt="localhost_3000_ (4)" src="https://github.com/user-attachments/assets/04a60439-b012-4911-9334-ab40234cdec9" />
+
+<img width="2561" height="1418" alt="localhost_3000_ (5)" src="https://github.com/user-attachments/assets/3d62b4f9-695e-44bd-b8ba-2f543a755b62" />
+
+<img width="2561" height="1418" alt="localhost_3000_ (6)" src="https://github.com/user-attachments/assets/2ed6adaf-4e7e-4ec6-94de-aab24b4e798f" />
+
 ---
 
 *Thank you for using Medical Storage Management System (MEDLOCUS)! For detailed technical documentation, please refer to the files in the `documentation/` directory.*
